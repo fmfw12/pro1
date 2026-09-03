@@ -1,6 +1,6 @@
-hi Mohamed
-<<<<<<< HEAD
+hi Moham
 egw
-=======
+
 creat bag home
->>>>>>> location
+
+dhx

@@ -1,2 +1,6 @@
 hi Mohamed
+<<<<<<< HEAD
 egw
+=======
+creat bag home
+>>>>>>> location
